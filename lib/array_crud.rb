@@ -30,7 +30,6 @@ end
 
 def retrieve_element_from_index(array, index_number)
   eighties_movies = ["Top Gun", "Footloose", "Sixteen Candles", "An Officer and A Gentleman"]
-  index_number = 2 
   eighties_movies[2]
 end
 
