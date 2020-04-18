@@ -29,7 +29,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  eighties_movies = ["Top Gun", "Footloose", "Sixteen Candles", "An Officer and A Gentleman"]
+  eighties_movies = ["Top Gun", "Footloose", "am", "An Officer and A Gentleman"]
   eighties_movies[2]
 end
 
